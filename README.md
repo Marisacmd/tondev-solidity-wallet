@@ -1,2 +1,2 @@
 # tondev-solidity-wallet
-Very basic wallet functional to deploy in the test blockchain network
+A very basic wallet functional to deploy in the test blockchain network
