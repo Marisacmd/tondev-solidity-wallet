@@ -12,7 +12,9 @@ to test.
 >Possible reason: Account has insufficient balance for the requested operation. Send some value to account balance""
 
 Use
+```
 -tondev c topup basicWallet.sol -v 10000000000000
+```
 
 # ToDo:
 
