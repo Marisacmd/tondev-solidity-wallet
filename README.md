@@ -1,2 +1,2 @@
 # tondev-solidity-wallet
-A very basic wallet functional to deploy in the test blockchain network
+The very basic wallet functional to deploy within the Freeton test blockchain network
